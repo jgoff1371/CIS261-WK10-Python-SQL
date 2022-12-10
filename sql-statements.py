@@ -1,6 +1,6 @@
 # Justin Goff
-# CIS 261
-# Week 10: Python SQL Statements
+# CIS 261 Week 10: Python SQL Statements
+# 12/10/22
 
 import mysql.connector
 from mysql.connector import errorcode
